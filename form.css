@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.hero-box{
+    background-color: #5dbbbf;
+    width: 80%;
+    height: 600px;
+    margin-left: 15%;
+    text-align: center;
+}
